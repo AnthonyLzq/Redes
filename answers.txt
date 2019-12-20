@@ -1,0 +1,777 @@
+Pregunta 1
+MARQUE LA RESPUESTA QUE NO CORRESPONDE.
+En cuanto a la medición del desempeño de las redes si consideramos los aspectos de desempeño en una Capa de Transporte, se tiene muchas connotaciones importantes, a continuación se detallan:
+
+Seleccione una:
+a. Asegúrese de que las muestras sean representativas
+b. La caché puede arruinar las mediciones
+c. Minimizas las conmutaciones de contexto
+d. Tenga cuidado con la extrapolación de los resultados
+e. Tenga cuidado al usar un reloj de grandes intervalos
+f. Asegúrese que el tamaño de la muestra sea lo bastante grande
+
+La respuesta correcta es: Minimizas las conmutaciones de contexto
+
+Pregunta 2
+MARQUE LA RESPUESTA CORRECTA.
+Entre los estados utilizados en la máquina de estados finitos para administrar conexiones TCP.
+
+El estado LAST ACK viene a estar dado por:
+
+Seleccione una:
+a. Espera a que todos los paquetes expiren Correcta
+b. Llego una solicitud de conexión, espera ACK
+c. Ambos lados intentaron cerrar al mismo tiempo
+d. El estado normal de la transferencia de datos
+e. La aplicación notificó que ya terminó
+
+La respuesta correcta es: Espera a que todos los paquetes expiren
+
+Pregunta 3
+
+MARQUE LA RESPUESTA QUE NO CORRESPONDE
+
+NO ES PARTE DE UN ENCABEZADO TCP:
+
+Seleccione una:
+a. Tamaño de ventana
+b. Número de secuencia
+c. TTL
+d. Apuntador urgente
+e. Suma de verificación
+
+La respuesta correcta es: TTL
+
+Pregunta 4
+
+MARQUE LA RESPUESTA CORRECTA.
+
+Es el puerto asignado al protocolo IMAP - Acceso seguro a web (HTTP sobre SSL/TLS)
+
+Seleccione una:
+a. Puerto 80
+b. Puerto 443
+c. Puerto 631
+d. Puerto 543
+e. Puerto 110
+
+La respuesta correcta es: Puerto 443
+
+Pregunta 5
+MARQUE LA RESPUESTA CORRECTA.
+
+Entre los principales puertos asignados del modelo del servicio TCP, el puerto 631 ha sido reservado para:
+
+Seleccione una:
+a. Acceso remoto al correo electrónico
+b. Compartición de impresoras
+c. Control de reproductor de medios
+d. Inicio de sesión remoto, reemplazo de Telnet
+e. Acceso seguro a web (HTTP sobre SSL/TLS)
+
+La respuesta correcta es: Compartición de impresoras
+
+Pregunta 6
+MARQUE LA RESPUESTA CORRECTA
+
+Dentro de las Direcciones IP se dividen en clases.
+
+Esta clase está compuesta por tres Host y  por una sola Red, cada una de tamaño de 8 bits.  El número de Host permitido en esta clase por Red es de 16,777, 216.
+
+Seleccione una:
+a. Clase B
+b. Clase A
+c. Clase C
+d. Clase D
+e. Clase E
+
+La respuesta correcta es: Clase A
+
+Pregunta 7
+¿Cómo se podría explicar a un cliente que IP es un protocolo no confiable?
+Seleccione una:
+
+a. No realiza verificación y corrección de errores; más bien espera que las capas superiores ofrezcan esos servicios. Correcta
+b. Es confiable en gran parte cuando se aplica a redes con capacidad de autorreparación.
+c. Simplemente envía los datos utilizando broadcasts por todas las rutas posibles, asegurándose así de una entrega exitosa.
+d. Ofrece enrutamiento de datos de mejor esfuerzo, pero por lo general entrega sin problemas los datos en el host remoto.
+e. Utiliza un algoritmo de mejor conjetura para enrutar y transmitir los datos, lo cual produce una red robusta.
+
+La respuesta correcta es: No realiza verificación y corrección de errores; más bien espera que las capas superiores ofrezcan esos servicios.
+
+Pregunta 8
+
+¿Cuál de las capas TCP/IP suministra servicios que admiten una conexión lógica entre los hosts emisores y receptores?
+Seleccione una:
+a. transporte
+b. red
+c. sesión
+d. presentación
+e. aplicación
+f. IP
+Retroalimentación
+La respuesta correcta es: transporte
+
+Pregunta 9
+
+MARQUE LA RESPUESTA CORRECTA
+Es un protocolo de la capa de aplicación que provee una manera de monitorear, controlar los dispositivos de red y de administrar las configuraciones, la recolección de estadísticas, el desempeño y la seguridad.
+
+Seleccione una:
+a. FTP
+b. NFS
+c. TELNET
+d. DNS
+e. SMTP
+f. SNMP 
+
+La respuesta correcta es: SNMP
+
+Pregunta 10
+
+MARQUE LA RESPUESTA CORRECTA
+De acuerdo a las redes privadas y a los diversos túneles. Este protocolo permite enviar paquetes de un protocolo punto a punto a través de una red IP.
+El cliente lo puede utilizar de forma voluntaria siendo independiente al servidor de acceso.
+Entre las ventajas permite una gestión más flexible de las direcciones IP y permite también utilizar redes de acceso IP para protocolos no IP
+Está compuesto por un túnel que transporta los mensajes de todos los usuarios entre PNS - PAC
+
+Seleccione una:
+a. BRIDGE
+b. NAS Incorrecta
+c. PPTP
+d. PROXY
+e. VPN
+f. VNC
+
+La respuesta correcta es: PPTP
+
+Pregunta 11
+Marque la opción que no corresponde. Se le considera una Red Área Amplia, si la distancia entre procesadores es:
+
+Seleccione una:
+a. 500 Km
+b. 10 Km
+c. 1000 km
+d. 100 Km
+
+La respuesta correcta es: 10 Km
+
+Pregunta 12
+
+Marque la respuesta correcta. Satélites que se utilizan para sistemas de navegación de telecomunicaciones GPS, girando a una distancia aproximada de 20200 km.
+
+Seleccione una:
+a. Satélites de Órbita Terreste Media
+b. Satélites estacionarios
+c. Satélites de Órbita Terreste Alta
+d. Satélites de Órbita Terreste Baja
+e. Satélites geoestacionarios
+
+La respuesta correcta es: Satélites de Órbita Terreste Media
+
+Pregunta 13
+
+Define el nivel MAC para redes de bus que utilizan Acceso múltiple por detección de portadora y detección de colisiones (CSMA/CD) 
+Este el estándar Ethernet.
+
+Seleccione una:
+a. 802.5
+b. 802.4
+c. 802.1
+d. 802.3
+e. 802.2
+
+La respuesta correcta es: 802.3
+
+Pregunta 14
+
+Procesa el envío de peticiones. Dependiento del sofware de red se conoce como shell ó generador de peticiones. 
+Intercepta peticiones en el equipo.
+Determina si las peticiones deben continuar en el bus del equipo local ó deben redirigirse a través de la red a otro servidor.
+Seleccione una:
+a. Periféricos
+b. Redirector
+c. Repetidor
+d. Designadores
+
+La respuesta correcta es: Designadores
+
+Pregunta 15
+
+Marque la respuesta correcta.
+Permite que cada estación transmita en todo el espectro de frecuencia todo el tiempo. Las múltiples transmisiones simultánea se separan mediante el uso de la teoría de codificación.
+
+Seleccione una:
+a. ADSL
+b. CDMA
+c. TDM
+d. OFDM
+e. PSTN
+
+La respuesta correcta es: CDMA
+
+Pregunta 16
+
+Es un método de acceso relativamente nuevo y está diseñado para el estándar Ethernet 100 Mbps .
+Este método de acceso está basado en el hecho de que los nodos repetidores y finales son dos componente que forman todas las redes 100 VG-Any LAN
+
+Seleccione una:
+a. Método de acceso paso de testigo
+b. Método de acceso múltiple por deteccción portadora con anulación de colisiones (CSMA/CA)
+c. Método de acceso prioridad de demandas
+
+La respuesta correcta es: Método de acceso prioridad de demandas
+
+Pregunta 17
+
+Marque la respuesta correcta. Entre los protocolos elementales de Enlace de Datos, este protocolo consiste en dos procedimientos diferentes, un emisor y un receptor. El emisor se ejecuta en la capa de enlace de datos de la máquina de origen y el receptor se ejecuta en la capa de enlace de datos de la máquina de destino.
+Este protocolo es irreal, ya que no maneja el control de flujo ni la corrección de errores. Su procesamiento se asemeja al de un servicio sin conexión ni confirmación de recepción que depende de las capas más altas para resolver estos problemas, aun cuando un servicio sin conexión ni confirmación de recepción realizaría cierta detección de errores.
+
+Seleccione una:
+a. Protocolo dúplex utópico
+b. Protocolo de confirmación de recepción positiva con retransmisión
+c. Protoco simplex utópico
+d. Protocolo simplex de parada y espera para un canal libre de errores
+e. Protocolo simplex de parada y espera para un canal ruidoso
+
+La respuesta correcta es: Protoco simplex utópico
+
+Pregunta 18
+
+Utiliza CSMA/CD como método de acceso en bus ó en una topologìa de árbol con cable de par trenzado apantallado, aunque también acepta cable de fibra óptica y UTP.
+También hace referencia a los componentes del cableado físico, así como al protocolo de nivel de enlace de datos.
+
+Seleccione una:
+a. AppleShare
+b. TokenTalk
+c. LocalTalk
+d. AppleTalk
+e. EtherTalk
+
+La respuesta correcta es: LocalTalk
+
+Pregunta 19
+
+Marque la respuesta correcta. Es un protocolo de Ventana Deslizante.
+
+En este protocolo, el receptor simplemente descarta todas las tramas subsecuentes, sin enviar confirmaciones de recepción para las tramas descartadas. La capa de enlace de datos se niega a aceptar cualquier trama excepto la siguiente que debe de entregar la capa de red.
+Si la ventana del receptor se llena antes de que expire el temporizador, el canal comenzará a vaciarse. El emisor terminará de esperar y retransmitirá en orden todas las tramas cuya recepción aún no se haya confirmado, comenzando por el trama dañado o perdido.
+
+Seleccione una:
+a. Un protocolo de ventana deslizante de un bit
+b. Protocolo simplex
+c. Un protocolo que utiliza retroceso N
+d. Un protocolo que usa repetición selectiva
+
+La respuesta correcta es: Un protocolo que usa repetición selectiva
+
+Pregunta 20
+
+MARQUE LA RESPUESTA INCORRECTA
+La presencia de congestión significa que la carga es mayor de la que los recursos pueden manejar.
+Existen diversos métodos para el control de congestión como:
+
+Seleccione una:
+a. Provisionamiento del tráfico
+b. Regulación del tráfico
+c. Control de admisión
+d. Enrutamiento consciente del tráfico
+e. Aprovisionamiento de red
+f. Desprendimiento de carga
+
+La respuesta correcta es: Provisionamiento del tráfico
+
+Pregunta 21
+
+Marque la respuesta que NO está correcta:
+NO se le considera un algoritmo de encaminamiento del tipo Dinámico:
+
+Seleccione una:
+a. Encaminamiento por Vector Distancia
+b. Encaminamiento Jerárquico
+c. Encaminamiento Multicast
+d. Encaminamiento por Estado del Enlace
+e. Encaminamiento por Ruta más Corta
+
+La respuesta correcta es: Encaminamiento por Ruta más Corta
+
+Pregunta 22
+
+Este cable permite una longitud de hasta 2 kilómetros, con una velocidad de tranmisión de hasta 100 Mbps. Es de difícil instalación y es no susceptible a las interferencias.
+
+Seleccione una:
+a. Cable de fibra óptica
+b. Cable de par trenzado (10BaseT)
+c. Cable Coaxial Thinnet (10Base2)
+d. Cable Coaxial Thicknet (10Base5)
+e. Cable de par trenzado (10 BaseT)
+
+La respuesta correcta es: Cable de fibra óptica
+
+Pregunta 23
+
+Este cable, utiliza una envoltura con cobre trenzado, de mayor calidad. 
+Protege los datos transmitidos en intermodulaciones exteriores, lo que permite soportar mayores tasa de transmisión a distancia mayores.
+
+Seleccione una:
+a. Cable coaxial
+b. Cable de fibra óptica
+c. Cable de par trenzado no blindado(UTP)
+d. Cable de par trenzado blindado (STP)
+
+La respuesta correcta es: Cable de par trenzado no blindado(UTP)
+
+Pregunta 24
+MARQUE LA RESPUESTA CORRECTA
+EN RELACION AL PROTOCOLO DE ACCESO A MENSAJES  DE INTERNET (IMAP). EL COMANDO EXPUNGE ES EL ENCARGADO DE:
+
+Seleccione una:
+a. OBTIENE MENSAJES DE UNA CARPETA
+b. ALTERA LAS BANDERAS DE LOS MENSAJES
+c. ELIMINA LOS MENSAJES MARCADOS PARA ELIMINACION
+d. EMITE COMANDOS MEDIANTE EL USO DE IDENTIFICADORES UNICOS
+e. AGREGA CARPETA AL CONJUNTO ACTIVO
+f. NO HACE NADA
+g. ELIMINA CARPETA DEL CONJUNTO ACTIVO
+
+La respuesta correcta es: ELIMINA LOS MENSAJES MARCADOS PARA ELIMINACION
+
+Pregunta 25
+
+¿Cuál de las capas TCP/IP suministra servicios que admiten una conexión lógica entre los hosts emisores y receptores?
+
+Seleccione una:
+a. sesión
+b. IP
+c. transporte
+d. aplicación
+e. red
+f. presentación
+
+La respuesta correcta es: transporte
+
+
+Pregunta 26
+
+Es la categoría de la IEE 802, que establece estándares para redes de área metropolitana, que son redes de datos diseñadas para poblaciones ó ciudades. 
+Se caracteriza por conexiones de muy alta velocidad utilizando cables de fibra óptica u otro medio digital.
+
+Seleccione una:
+a. 802.6
+b. 802.5
+c. 802.3
+d. 802.1
+e. 802.4
+
+La respuesta correcta es: 802.6
+
+Pregunta 27
+
+¿Cuáles son los criterios que se usan para identificar una dirección Clase B?
+
+Seleccione una:
+a. número decimal en el primer octeto entre 127-191
+b. los primeros tres bits de la dirección IP binaria son 110
+c. número decimal en el primer octeto entre 128-192
+d. número decimal en el primer octeto entre 128-191
+
+La respuesta correcta es: número decimal en el primer octeto entre 128-191
+
+
+Pregunta 28
+
+Marque la respuesta correcta. No se le considera como un código para la corrección de errores en la Capa de Enlace de Datos:
+
+Seleccione una:
+a. Corrección de Errores hacia Adelante, FEC 
+b. Control de Enlace de Datos de Alto Nivel, HDLC
+c. Código de Hamming
+d. Verificación de Paridad de Baja Densidad, LDPC
+e. Código de Reed-Solomon
+
+La respuesta correcta es: Corrección de Errores hacia Adelante, FEC
+
+Pregunta 29
+
+¿Cuáles de las siguientes opciones representan diferencias entre los routers y los switches? (Elija dos opciones)
+
+Seleccione una o más de una:
+a. Los routers y los switches operan exactamente de la misma manera
+b. Los routers toman las decisiones de envío en base de las direcciones IP, pero los switches lo hacen a base de las direcciones MAC
+c. Los switches ofrecen más seguridad que los routers
+d. Los switches reenvían los broadcasts, pero los routers
+e. Los routers operan más rápidamente que los switches
+
+La respuesta correcta es: Los routers toman las decisiones de envío en base de las direcciones IP, pero los switches lo hacen a base de las direcciones MAC, Los routers operan más rápidamente que los switches
+
+Pregunta 30
+
+El comité IEEE publicó una especificación para Ethernet en cable de fibra óptica. 
+La principal razón para utilizar este estándar, es trabajar con cables largos entre repetidores, como puede ser entre edificios
+
+Seleccione una:
+a. Estándar 10Base2
+b. Estándar 10BaseT
+c. Estándar 10BaseFL
+d. Estándar 10Base2
+e. Estándar 10Base5
+
+La respuesta correcta es: Estándar 10BaseFL
+
+Pregunta 31
+
+Las especificaciones de IEEE para esta topología es de 10 Mbps y segmentos de 500 metros. También se denomina Ethernet estándar, el mismo que hace uso de cable coaxial grueso.
+
+Seleccione una:
+a. Estándar 10Base5
+b. Estándar 10 Base10
+c. Estándar 10Base2
+d. Estándar 10BaseT
+
+La respuesta correcta es: Estándar 10Base5
+
+Pregunta 32
+
+Es una red Ethernet que suele utilizar cable de par trenzado sin apantallar (UTP) para la conexión de equipo, también puede utilizar cable de par trenzado apantallado (STP).
+La longitud máxima de un segmento es de 100 metros (328 pies).
+
+Seleccione una:
+a. Estándar 10Base5
+b. Estándar 10 BaseT
+c. Estándar 10 BaseFL
+d. Estándar 10Base10
+e. Estándar 10Base2
+
+La respuesta correcta es: Estándar 10 BaseT
+
+Pregunta 33
+
+Marque la respuesta correcta. Estándar de red utilizado en banda ancha inalámbrica (WIMAX)
+
+Seleccione una:
+a. 802.12
+b. 802.16
+c. 802.14
+d. 802.10
+e. 802.8
+
+La respuesta correcta es: 802.16
+
+Pregunta 34
+
+MARQUE LA RESPUESTA CORRECTA
+Estándar WIFI que soporta velocidades de hasta 10 Mbps en la banda de 2.4 Ghz.
+Compite con el estándar IEEE 802.11b
+
+Seleccione una:
+a. IEEE 802.11g
+b. HomeRF
+c. HiperLAN
+d. IEEE 802.11n
+e. HiperLAN2
+f. HomeRF2
+
+La respuesta correcta es: HomeRF
+
+Pregunta 35
+
+Marque la respuesta correcta. Cuando nos referimos al estándar 802.13 a nivel de estandarizacióna nivel de redes nos referimos a:
+
+Seleccione una:
+a. Token ring
+b. Ethernet
+c. Número de mala suerte, nadie lo quiso
+d. Anillo de paquete elástico
+e. Redes LAN isocrónicas
+
+La respuesta correcta es: Número de mala suerte, nadie lo quiso
+
+Pregunta 36
+
+Marque la respuesta correcta. Cuando en estandarización a nivel de redes nos referimos al 802.4 representa a:
+
+Seleccione una:
+a. Redes LAN inalámbricas (WIFI)
+b. Ethernet
+c. Control de enlaces lógicos
+d. Token bus
+e. Token ring
+
+La respuesta correcta es: Token bus
+
+Pregunta 37
+
+MARQUE LA RESPUESTA CORRECTA
+De acuerdo a la siguiente dirección IP, determinar a que Clase pertenece e identifica el número de  Host y de Red:
+126.201.54.231
+
+Seleccione una:
+a. Red.Host.Host.Host
+b. Host.Host.Red.Red
+c. Host.Red.Red.Red
+d. Host.Host.Host.Red
+e. Red.Red.Red.Host
+
+La respuesta correcta es: Red.Host.Host.Host
+
+Pregunta 38
+
+MARQUE LA RESPUESTA INCORRECTA.
+Entre los principales objetivos de IP versión 6 se destaca:
+
+Seleccione una:
+a. Permitir que el protocolo viejo y el nuevo coexistan durante años
+b. Soportar miles de millones de hosts
+c. Proporcionar mayor seguridad
+d. Simplificar el protocolo para permitir a los enrutadores procesar los paquetes con más rapidez.
+e. Permitir que un host deambule, sin tener que cambiar de dirección
+f. Aumentar el tamaño de las tablas de enrutamiento
+g. Ayudar a la multidifusión
+
+La respuesta correcta es: Aumentar el tamaño de las tablas de enrutamiento
+
+Pregunta 39
+
+MARQUE LA RESPUESTA CORRECTA
+Determine la máscara de red para la siguiente dirección IP 191.249.234.191
+
+Seleccione una:
+a. 255.255.255.0
+b. 255.255.255.255
+c. 255.0.0.0
+d. 255.255.255.254
+e. 255.255.0.0
+
+La respuesta correcta es: 255.255.0.0
+
+Pregunta 40
+
+Es un método de acceso relativamente nuevo y está diseñado para el estándar Ethernet 100 Mbps.
+Este método de acceso está basado en el hecho de que los nodos repetidores y finales son dos componente que forman todas las redes 100 VG-Any LAN
+
+Seleccione una:
+a. Método de acceso prioridad de demandas
+b. Método de acceso múltiple por deteccción portadora con anulación de colisiones (CSMA/CA)
+c. Método de acceso paso de testigo
+
+La respuesta correcta es: Método de acceso prioridad de demandas
+
+Pregunta 41
+
+Marque la respuesta correcta. Es la capa del Modelo OSI que incluye tanto al control del diálogo, el manejo de tokens y la sincronización.
+
+Seleccione una:
+a. Capa física
+b. Capa de red
+c. Capa de presentación
+d. Capa de aplicación
+e. Capa de enlace de datos
+f. Capa de transporte
+g. Capa de sesión
+
+La respuesta correcta es: Capa de sesión
+
+Pregunta 42
+
+Marque la respuesta correcta. Es la capa del Modelo OSI, que maneja estructuras de datos abstractas y permite definir e intercambiar estructuras de datos de mayor nivel como los registros bancarios
+
+Seleccione una:
+a. Capa de presentación
+b. Capa de red
+c. Capa física
+d. Capa de aplicación
+e. Capa de transporte
+f. Capa de enlace de datos
+g. Capa de sesión
+
+La respuesta correcta es: Capa de presentación
+
+Pregunta 43
+
+Marque la opción correcta. Es una capa del modelo TCP, que permite que los hosts inyecten paquetes a cualquier red y que viajen de manera independiente hacia el destino.
+
+Seleccione una:
+a. Capa de Red
+b. Capa de Enlace
+c. Capa de Transporte
+d. Capa de Interred
+e. Capa de Presentación
+f. Capa Física
+g. Capa de Sesión
+
+
+La respuesta correcta es: Capa de Interred
+
+Pregunta 44
+
+Marque la respuesta correcta.
+
+En el modelo TCP/IP, los protocolos DSL Ethernet y Sonet pertenecen a la siguiente capa:
+
+Seleccione una:
+a. Capa de Transporte
+b. Capa Física
+c. Capa de Sesión
+d. Capa de Presentación
+e. Capa de Enlace
+f. Capa Interred
+g. Capa de Aplicación
+
+La respuesta correcta es: Capa de Enlace
+
+Pregunta 45
+
+Marque la respuesta correcta.
+Permite que cada estación transmita en todo el espectro de frecuencia todo el tiempo. Las múltiples transmisiones simultánea se separan mediante el uso de la teoría de codificación.
+
+Seleccione una:
+a. ADSL
+b. CDMA
+c. PSTN
+d. OFDM
+e. TDM
+
+La respuesta correcta es: CDMA
+
+Pregunta 46
+
+Capa del modelo OSI que es el responsable del direccionamiento de los mensajes y la traducción de las direcciones y nombres lógicos en direcciones física.
+Este nivel también determina la ruta desde el origen hasta el equipo destino.
+Determina el camino que deben tomar los datos.
+
+Seleccione una:
+a. Nivel de sesión
+b. Nivel de red
+c. Nivel de transporte
+d. Nivel físico
+e. Nivel de enlace de datos
+
+La respuesta correcta es: Nivel de red
+
+Pregunta 47
+
+Es la capa del modelo OSI que garantiza que los que paquetes se envíen sin errores, en secuencia, y sin pérdidas o duplicados.
+En este nivel vuelve a empaquetar los mensajes, dividiendo los mensajes grandes en varios paquetes y agrupando los paquetes pequeños en uno.
+
+Seleccione una:
+a. Nivel de presentación
+b. Nivel de red
+c. Nivel de transporte
+d. Nivel físico
+e. Nivel de sesión
+
+La respuesta correcta es: Nivel de transporte
+
+Pregunta 48
+
+Marca la opción que no corresponde. Un bridge de nivel MAC:
+
+Seleccione una:
+a. Actua como barrera de seguridad entre los diferentes segmentos
+b. Comprueba la direcciones origen y destino de cada paquete
+c. Construye una tabla de encaminamiento, donde la información está disponible
+d. Reenvía los paquetes si el destino aparece ó no aparece en la tabla de encaminamiento.
+e. Escucha todo el tráfico
+
+La respuesta correcta es: Actua como barrera de seguridad entre los diferentes segmentos
+
+Pregunta 49
+
+Dispositivo que puede unir segmentos ó grupos de trabajo LAN. Puede dividir una red para aislar el tráfico ó los problemas.
+
+Seleccione una:
+a. Repetidor
+b. Hub
+c. Bridge
+d. Router
+e. Brouters
+
+La respuesta correcta es: Bridge
+
+Pregunta 50
+
+¿Cómo se podría explicar a un cliente que IP es un protocolo no confiable?
+
+Seleccione una:
+a. Simplemente envía los datos utilizando broadcasts por todas las rutas posibles, asegurándose así de una entrega exitosa.
+b. Es confiable en gran parte cuando se aplica a redes con capacidad de autorreparación.
+c. Utiliza un algoritmo de mejor conjetura para enrutar y transmitir los datos, lo cual produce una red robusta.
+d. Ofrece enrutamiento de datos de mejor esfuerzo, pero por lo general entrega sin problemas los datos en el host remoto.
+e. No realiza verificación y corrección de errores; más bien espera que las capas superiores ofrezcan esos servicios.
+
+La respuesta correcta es: No realiza verificación y corrección de errores; más bien espera que las capas superiores ofrezcan esos servicios.
+
+Pregunta 51
+
+Utiliza CSMA/CD como método de acceso en bus ó en una topologìa de árbol con cable de par trenzado apantallado, aunque también acepta cable de fibra óptica y UTP.
+También hace referencia a los componentes del cableado físico, así como al protocolo de nivel de enlace de datos.
+
+Seleccione una:
+a. LocalTalk
+b. AppleShare
+c. EtherTalk
+d. AppleTalk
+e. TokenTalk
+
+La respuesta correcta es: LocalTalk
+
+Pregunta 52
+
+En esta topología el fallo de un equipo no afecta al resto de la red.
+Este sistema ofrece un incremento de la redundancia y de la fiabilidad, así como la facilidad para resolver problemas
+
+Seleccione una:
+a. Bus
+b. Malla
+c. Estrella-Anillo
+d. Estrella-Bus
+e. Anillo
+
+La respuesta correcta es: Malla
+
+Pregunta 53
+
+En esta topología los equipos de la red se conectan a un hub central.
+Entre las principales características se destaca:
+
+a) Método de acceso de paso de testigo
+b) Cableado de par trenzado apantallado y sin pantallar
+c) Transmisión banda base
+d) Velocidades de transferencia entre 4 y 16 Mbps
+
+Seleccione una:
+a. Malla
+b. Bus
+c. Estrella
+d. Token Ring
+
+La respuesta correcta es: Token Ring
+
+Pregunta 54
+
+Los datos pueden ser transmitidos y recibidos al mismo tiempo.
+Estos envía ó reciben datos, conmutando entre el modo de transmisión y el modo de recepción.
+
+Seleccione una:
+a. Transmisión half-duplex
+b. Transmisión en banda base
+c. Transmisión en banda ancha
+d. Transmisión full-duplex
+
+La respuesta correcta es: Transmisión full-duplex
+
+Pregunta 55
+
+MARQUE LA RESPUESTA CORRECTA
+UDP es el protocolo de transporte no orientado a conexión de la pila del protocolo TCP/IP, el cual intercambia datagramas sin acuse de recibo ni garantía de entrega.
+
+El protocolo que NO  usa UDP es:
+
+Seleccione una:
+a. TFTP (Protocolo trivial de transferencia de archivos)
+b. SNMP (Protocolo simple de administración de red)
+c. DNS (Sistema de denominación de dominios)
+d. DHCP (Protocolo de configuración dinámica del host)
+e. SMTP (Protocolo simple de transferencia de correo)
+
+La respuesta correcta es: SMTP (Protocolo simple de transferencia de correo)
